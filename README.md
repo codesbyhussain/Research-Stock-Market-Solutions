@@ -33,9 +33,3 @@ This research project aims to enhance current stock market analysis techniques b
 - Python 3.x
 - TensorFlow 
 
-### Installation Steps
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/stock-market-analysis.git
-
